@@ -1,0 +1,5 @@
+{
+    "python.createEnvironment.contentButton": "show",
+    "python.globalModuleInstallation": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
